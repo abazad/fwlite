@@ -109,11 +109,11 @@ def find_library(possible_lib_names, search_symbol, library_name):
         try:
             lib = CDLL(path)
             if hasattr(lib, search_symbol):
-                logging.info('loading %s from %s', library_name, path)
+                logger.info('loading %s from %s', library_name, path)
                 return lib
             else:
-                logging.warn('can\'t find symbol %s in %s', search_symbol,
-                             path)
+                logger.warn('can\'t find symbol %s in %s', search_symbol,
+                            path)
         except Exception:
             pass
     return None

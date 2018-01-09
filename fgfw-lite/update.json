@@ -17,7 +17,7 @@
     "./fgfw-lite/apfilter.py": "06134c557eb43b312094efa6957450e204dd02409cd104cfcf3c6fca71987411",
     "./fgfw-lite/config.py": "1638f6dc051e3a623636ed97a6fbd1614ab50e3ff831d32a4701e294cc82e875",
     "./fgfw-lite/connection.py": "8da2c2980d912f6f4c32d58ffecca07d92ec2c52131f0e177be6cadf3acf3aa4",
-    "./fgfw-lite/ctypes_libsodium.py": "1c2f1b9b01cd6c0e08180f13ab76cee9513b3caf2ae95a8297c7e2cedf72ed7f",
+    "./fgfw-lite/ctypes_libsodium.py": "b8cc9cbbf0ca639a0fc7fbd08dad461eb799139ed2e203e48d0ab366f959d644",
     "./fgfw-lite/ecc.py": "a2f4ae277dffb9ea67a24c74598a0fed7e5c700e4b27ac118e49ae8eae8c984a",
     "./fgfw-lite/encrypt.py": "810d5eb089058711184acfeb6abac027a5cebb40c42fb234324ae9a517c44602",
     "./fgfw-lite/fgfw-lite.py": "d00b15cb254b73033c4b2bf9a3ea2b60a7e9a3356f876d953de7c6a279ac6a31",
